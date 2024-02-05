@@ -33,5 +33,7 @@
   
   https://drive.google.com/file/d/19CNW-gqt5tmAhz6qndJ9GcF3NlVnfLou/view
 
-  and 
+  and example README.md file 
+
+  ![Screenshot (45)](https://github.com/AgnesGeller/README-Generator/assets/147996856/416a50bf-a3fc-4e65-afb8-4f4804ec16f9)
   
