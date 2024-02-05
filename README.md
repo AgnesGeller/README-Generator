@@ -12,7 +12,7 @@
   - [Questions](#questions)
 
   ## Installation
-  As a edveloper I want a README generator. So that I can create a professional README for a new project. First we need to download node from browser
+  As a dedveloper I want a README generator. So that I can create a professional README for a new project. First we need to download node from browser
 
   ## Usage
   When the user enter project tite its display as a title of README. Same as description, installation, usage, Contributing, and Testing. License
